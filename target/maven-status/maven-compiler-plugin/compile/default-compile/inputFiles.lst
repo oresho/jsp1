@@ -1,2 +1,3 @@
-/Users/oreoluwasomuyiwa/eclipse-workspace/first-web-app/src/main/java/webapp/LoginService.java
-/Users/oreoluwasomuyiwa/eclipse-workspace/first-web-app/src/main/java/webapp/LoginServlet.java
+/Users/oreoluwasomuyiwa/eclipse-workspace/first-web-app/src/main/java/com/in28minutes/jee/LoginServlet.java
+/Users/oreoluwasomuyiwa/eclipse-workspace/first-web-app/src/main/java/com/in28minutes/jee/LoginService.java
+/Users/oreoluwasomuyiwa/eclipse-workspace/first-web-app/src/main/java/com/in28minutes/springmvc/LoginController.java

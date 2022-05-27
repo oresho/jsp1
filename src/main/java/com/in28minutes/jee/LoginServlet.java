@@ -1,4 +1,4 @@
-package webapp;
+package com.in28minutes.jee;
 
 import java.io.IOException;
 
@@ -12,6 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 @WebServlet(urlPatterns = "/login.do")
 public class LoginServlet extends HttpServlet {
 
+	private static final long serialVersionUID = 1L;
 	private LoginService service = new LoginService();
 
 	@Override
